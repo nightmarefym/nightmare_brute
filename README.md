@@ -17,7 +17,7 @@ Usage of Nightmare for attacking targets without prior mutual consent is illegal
 
 ### Usage:
 ```
-git clone https://github.com/dhasirar/nightmare_brute.git
+git clone https://github.com/nightmarefym/nightmare_brute.git
 cd Nightmare
 chmod +x nightmare.sh
 service tor start
